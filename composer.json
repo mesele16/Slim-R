@@ -27,6 +27,8 @@
     "slim/flash": "^0.1.0",
     "vlucas/phpdotenv": "^2.4",
     "symfony/var-dumper": "^3.1",
+    "respect/validation": "^1.1",
+    "illuminate/database": "^5.2",
     "monolog/monolog": "^1.21"
   },
   "autoload": {
