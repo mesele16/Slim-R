@@ -30,7 +30,7 @@
     "illuminate/database": "^7.30",
     "awurth/slim-validation": "^3.1",
     "dflydev/fig-cookies": "^3.0",
-    "bryanjhv/slim-session": "^3.0",
+    "bryanjhv/slim-session": "~3.0",
     "jasongrimes/paginator": "^1.0",
     "monolog/monolog": "^1.21"
   },
