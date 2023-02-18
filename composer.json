@@ -34,6 +34,7 @@
     "bryanjhv/slim-session": "~3.0",
     "jasongrimes/paginator": "^1.0",
     "bacon/bacon-qr-code": "^2.0.8",
+    "interficieis/php-barcode": "^2.0.2",
     "monolog/monolog": "^1.21"
   },
   "autoload": {
