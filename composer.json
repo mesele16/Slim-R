@@ -29,7 +29,7 @@
     "vlucas/phpdotenv": "^5.5.0",
     "symfony/var-dumper": "^6.2.5",
     "illuminate/database": "^10.0.3",
-    "cartalyst/sentinel": "^6.0.0",
+    "respect/validation": "^2.2.4",
     "awurth/slim-validation": "^3.1",
     "dflydev/fig-cookies": "^3.0",
     "bryanjhv/slim-session": "~3.0",
