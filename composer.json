@@ -17,7 +17,7 @@
             "homepage": "http://edux.com"
         }
     ],
-        "require": {
+    "require": {
         "php": "^7.2",
         "ext-json": "*",
         "psr/log": "^1.1",
